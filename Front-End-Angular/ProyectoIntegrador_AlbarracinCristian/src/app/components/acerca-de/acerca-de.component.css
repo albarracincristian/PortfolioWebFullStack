@@ -14,7 +14,8 @@ h1{
 /*etiqueta nombre*/
 #nombre{
   font-weight: bold;
-  margin-top: 80px;
+  margin-top: 90px;
+  left: 3%;
 }
 
 /*estilo de la foto de perfil*/
@@ -32,7 +33,7 @@ h1{
   #fotoperfil{
     position: absolute;
     width: 30%;
-    border-radius: 20%;
+    border-radius: 50%;
     box-shadow: 3px 3px 3px white;
     left: 35%;
     top: 160px;
