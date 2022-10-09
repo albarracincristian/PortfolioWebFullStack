@@ -22,7 +22,7 @@ import { NewExperienciaComponent } from './components/experiencia/new-experienci
 import { EditExperienciaComponent } from './components/experiencia/edit-experiencia.component';
 import { NeweducacionComponent } from './components/educacion/neweducacion.component';
 import { EditeducacionComponent } from './components/educacion/editeducacion.component';
-import { EditskillComponent } from './components/hys/editskill.component';
+import { EditSkillComponent } from './components/hys/editskill.component';
 import { NewskillComponent } from './components/hys/newskill.component';
 
 
@@ -44,7 +44,7 @@ import { NewskillComponent } from './components/hys/newskill.component';
     EditExperienciaComponent,
     NeweducacionComponent,
     EditeducacionComponent,
-    EditskillComponent,
+    EditSkillComponent,
     NewskillComponent
   ],
   imports: [
