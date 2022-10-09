@@ -23,12 +23,10 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-
 @RestController
-@CrossOrigin(origins = "https://porfoliocristian-2a604.web.app/")
 @RequestMapping("/skill")
+@CrossOrigin(origins = "https://porfoliocristian-2a604.web.app")
 public class CHys {
-
     @Autowired
     Shys shys;
 
